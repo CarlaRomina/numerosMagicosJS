@@ -1,0 +1,34 @@
+.pulsador {
+    padding:15px; 
+    width: auto; 
+    display: inline-block; 
+    margin: 25px;
+    cursor: pointer; 
+    color: yellow; 
+    border-radius: 40px; 
+    background: purple;
+}
+
+body{
+    background-image: url(../img/fondoNumeros.jpg);
+    background-size: cover;
+    
+}
+.caja{
+    display: flex;
+    justify-content: center;
+    margin-top: 18em;
+    
+    
+}
+.cajaBotones{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    width: 25em;
+}
+.btn1{
+    width: 10em;
+}
